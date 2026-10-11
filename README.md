@@ -1,12 +1,12 @@
-# Olá! Bem-vindo ao meu perfil
+# Hello! Welcome to My Profile
 
-Sou o **David Oliveira**, estudante de programação e entusiasta de desenvolvimento de software. Tenho interesse especial em aplicações web, desenvolvimento de jogos e programação em geral, procurando constantemente expandir os meus conhecimentos através de projetos práticos e da exploração de novas tecnologias.
+I'm **David Oliveira**, a programming student and software development enthusiast. I'm particularly interested in web applications, game development, and programming in general. I'm constantly looking to expand my knowledge through hands-on projects and by exploring new technologies.
 
 ---
 
-## Tecnologias
+## Technologies
 
-### Linguagens de Programação
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -17,15 +17,14 @@ Sou o **David Oliveira**, estudante de programação e entusiasta de desenvolvim
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge)
 
-### Desenvolvimento Web & Mobile
+### Web & Mobile Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-
-### Bases de Dados
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
@@ -33,48 +32,47 @@ Sou o **David Oliveira**, estudante de programação e entusiasta de desenvolvim
 
 ---
 
-## Projetos em Destaque
+## Featured Projects
 
 ### QuatroEmLinha
-Implementação do clássico jogo Quatro em Linha desenvolvida em C++.
+Implementation of the classic Connect Four game, developed in C++.
 
 ### CustomLinktree
-Página de links personalizada simples inspirada no Linktree, desenvolvida com HTML5 e CSS3.
+A simple, personalized link page inspired by Linktree, built with HTML5 and CSS3.
 
 ### SkyJumpGame
-Jogo web desenvolvido com HTML5, CSS3, JavaScript e Node.js.
+A web-based game developed using HTML5, CSS3, JavaScript, and Node.js.
 
 ### JogoPython
-Projeto de jogo desenvolvido em Python.
+A game development project built with Python.
 
 ---
 
-## Atualmente
+## Currently
 
-- A aprofundar conhecimentos em desenvolvimento de software.
-- A desenvolver projetos para consolidar competências técnicas.
-- A explorar novas linguagens, frameworks e ferramentas.
-- Interessado em desenvolvimento web e aplicações desktop.
+- Expanding my knowledge of software development.
+- Developing projects to strengthen my technical skills.
+- Exploring new programming languages, frameworks, and tools.
+- Interested in web development and desktop applications.
 
 ---
 
-## Ferramentas e Software
+## Tools & Software
 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=for-the-badge)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ---
 
-## Contacto
+## Contact
 
-- GitHub: github.com/dabiditos
-- Localização: Porto, Portugal
+- GitHub: [github.com/dabiditos](https://github.com/dabiditos)
+- Location: Porto, Portugal
 - Email: a14711@oficina.pt
 
 ---
 
-Obrigado pela visita ao meu perfil. Estou sempre à procura de aprender, criar novos projetos e melhorar as minhas competências como programador.
+Thanks for visiting my profile! I'm always looking to learn, build new projects, and improve my programming skills.
